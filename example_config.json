@@ -72,8 +72,8 @@
                     }
                 }
             ],
-            "areas": {
-                "area": {
+            "areas": [
+                {
                     "name": "Area1",
                     "bottom_left": {
                         "x": "8000",
@@ -84,7 +84,7 @@
                         "y": "9000"
                     }
                 }
-            },
+            ],
             "zones": [
                 {
                     "name": "Zone1",
